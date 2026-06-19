@@ -5,6 +5,8 @@
 [![MoonLy.Xyz](https://img.shields.io/badge/MoonLy.Xyz-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://moonly.xyz)
 [![Version](https://img.shields.io/badge/Sürüm-2.2.1-9B59B6?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/Lisans-Özel%20Lisans-red?style=for-the-badge&logo=legal&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/Discord-Katıl-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/42Q2s8QBJ3)
+[![Guns.lol](https://img.shields.io/badge/Guns.lol-muffin77-FF4500?style=for-the-badge&logo=linktree&logoColor=white)](https://guns.lol/muffin77)
 
 </div>
 
@@ -70,17 +72,9 @@
 - `/giveaway-end` - Çekilişi bitirir
 - `/giveaway-reroll` - Yeni kazanan belirler
 
-### 🎙️ Özel VC (10 Komut)
-- `/setup-vc` - Özel VC sistemini kurar
-- `/private-vc` - Özel VC oluşturur
-- `/vc-invite` - Kullanıcı davet eder
-- `/vc-kick` - Kullanıcı atar
-- `/vc-lock` - Kanalı kilitler
-- `/vc-unlock` - Kilidi açar
-- `/vc-name` - İsim değiştirir
-- `/vc-limit` - Limit ayarlar
-- `/vc-claim` - Sahipliği alır
-- `/vc-list` - Kanalları listeler
+### 🎙️ Özel VC (Tek Komut)
+- `/özel-sesli kur` - Özel Sesli Sohbet sistemini kurar
+
 
 ### 🛡️ Güvenlik (Tek Komut)
 - `/security` - VPN/Proxy, spam, rate limit, kelime engel
@@ -98,5 +92,67 @@
 - `/rapor-sil` - Raporu siler
 - `/rapor-istatistik` - Rapor istatistikleri
 - `/rapor-panel` - Rapor paneli oluşturur
+
 ---
+
 ## 📊 Toplam Komut Sayısı: **70+**
+
+---
+
+## 💰 Fiyat Planları
+
+| Plan | Süre | Fiyat |
+|------|------|-------|
+| ⭐ Haftalık | 7 Gün | **$2.99** |
+| 🌟 Aylık | 30 Gün | **$4.29** 🔥 Popüler |
+| 💎 2 Aylık | 60 Gün | **$6.29** |
+| 👑 Yıllık | 365 Gün | **$7.29** |
+
+> **Tüm planlarda:** 70+ komut, 7/24 aktif destek, VIP öncelikli hizmet!
+
+---
+
+## 🚀 Nasıl Satın Alırım?
+
+1. **Discord sunucumuza katıl:** [tıkla](https://discord.gg/42Q2s8QBJ3)
+2. **Bot sahibi (dcsmuffin77) ile iletişime geç**
+3. **İstediğin planı seç ve ödemeyi tamamla**
+4. **Bot lisansın aktif edilir, hemen kullanmaya başla!**
+
+> 💳 **Ödeme yöntemleri:** Papara, IBAN, Kripto para
+
+---
+
+## 🔒 Lisans
+
+Bu bot **Özel Lisans (Proprietary)** ile korunmaktadır.
+
+| Durum | Açıklama |
+|-------|----------|
+| ❌ Satış | Yasaktır |
+| ❌ Kopyalama | Yasaktır |
+| ❌ Dağıtım | Yasaktır |
+| ❌ İzinsiz Kullanım | Yasaktır |
+| ⚖️ Telif | © 2026 MoonLy.Xyz - Tüm hakları saklıdır |
+
+---
+
+## 📞 İletişim
+
+| Platform | Link |
+|----------|------|
+| 📌 Bot Sahibi | `dcsmuffin77` |
+| 🌐 Web Site | [moonly.xyz](https://moonly.xyz) |
+| 💬 Destek Sunucusu | [discord.gg/42Q2s8QBJ3](https://discord.gg/42Q2s8QBJ3) |
+
+---
+
+<div align="center">
+
+**⭐ Bu projeyi beğendiysen yıldız vermeyi unutma! ⭐**
+
+🌙 **MoonLy.Xyz** - Profesyonel Discord Botu
+
+© 2026 MoonLy.Xyz - Tüm Hakları Saklıdır.
+
+</div>
