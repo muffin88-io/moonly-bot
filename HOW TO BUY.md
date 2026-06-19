@@ -2,13 +2,14 @@
                               🌙 MOONLY.XYZ
 ================================================================================
 
-[![MoonLy.Xyz](https://img.shields.io/badge/MoonLy.Xyz-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://moonly.xyz)
+[![+70 Command](https://img.shields.io/badge/Komut-70%2B-9B59B6?style=for-the-badge&logo=code&logoColor=white)
 [![License](https://img.shields.io/badge/Lisans-Özel%20Lisans-red?style=for-the-badge&logo=legal&logoColor=white)]()
 [![Uptime](https://img.shields.io/badge/Uptime-7%2F24%20Aktif-00E676?style=for-the-badge&logo=statuspage&logoColor=white)]()
-[![Support](https://img.shields.io/badge/Destek-VIP%20Öncelikli-D50000?style=for-the-badge&logo=discord&logoColor=white)]()
+[![7/24 Ticket](https://img.shields.io/badge/Destek-7%2F24%20Aktif-00E676?style=for-the-badge&logo=statuspage&logoColor=white)]()
+[![4 Gb Storage]([https://img.shields.io/badge/Destek-VIP%20Öncelikli-D50000?style=for-the-badge&logo=discord&logoColor=white](https://img.shields.io/badge/Depolama-2%20GB-00C853?style=for-the-badge&logo=cloudflare&logoColor=white))]()
+[![Guns.lol](https://img.shields.io/badge/Guns.lol-muffin77-FF4500?style=for-the-badge&logo=linktree&logoColor=white)](https://guns.lol/muffin77)
 [![Discord](https://img.shields.io/badge/Discord-Katıl-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/42Q2s8QBJ3)
-[![Speed](https://img.shields.io/badge/Hız-Ultra%20Hızlı-FF1744?style=for-the-badge&logo=cloudflare&logoColor=white)]()
-[![Version](https://img.shields.io/badge/Sürüm-3.0.0-9B59B6?style=for-the-badge)]()
+[![Version](https://img.shields.io/badge/Version-2.2.1-9B59B6?style=for-the-badge)]()
 
 ================================================================================
                              📌 HAKKINDA
